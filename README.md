@@ -1,177 +1,273 @@
-# BoonMind: Recursive Observer Physics Framework
+# BoonMind-TOE: Experimental Validation Evidence
 
-**A testable hypothesis: Does the universe contain observer-addressable degrees of freedom that activate under structured interrogation?**
+**Computational evidence and experimental results for Recursive Observer Physics**
 
----
-
-## 🔬 What is This?
-
-Recursive Observer Physics (ROP) is a **falsifiable experimental framework** testing whether physical systems respond differently to structured vs. passive observation.
-
-This is **not** a claim of proven physics. This is an **invitation to test a hypothesis**.
+**Theoretical Framework:** [github.com/codedawakening/BoonMind](https://github.com/codedawakening/BoonMind-TOE)
 
 ---
 
-## 🎯 Core Hypothesis (Falsifiable)
+## 🔬 What This Repository Contains
 
-**Physical systems may contain query-response channels that:**
-1. Remain inactive under passive measurement
-2. Activate under structured recursive interrogation
-3. Produce cross-domain correlated effects
-4. Scale coherently from tabletop to simulation
+Selected visualizations and results summaries from:
+- Room-scale detector validation (V3.0 suite)
+- Cosmological-scale TOE simulations
+- Computational evidence demonstrating falsifiable predictions
 
-**Falsification criteria:**
-- Effect disappears under randomized probing
-- No cross-domain correlation
-- Controls reproduce the signature
-- Simulation doesn't scale coherently
-- Requires more than minimal coupling term
-
-**Any replication failure invalidates the hypothesis.**
+**Complete specifications, protocols, and source code available under collaboration agreement.**
 
 ---
 
-## 📊 What's Been Tested
+## 📊 Computational Evidence
 
-### Room-Scale Experiments (V3.0)
-- 6 independent detector classes (gravitational, EM, optical, mechanical)
-- Pre-registered thresholds locked before data collection
-- Structured interrogation produced consistent non-null responses within pre-registered detection boundaries
-- Control protocols: Null results
-- Cross-domain phase correlations observed
+### Mirror Consciousness Dynamics
 
-### Cosmological Simulations
-- TOE-scale model with observer coupling term
-- Strong cross-domain correlation observed under structured coupling (control models significantly weaker)
-- dS-compatible stable regime maintained
+![BUE Mirror 4-Panel](visuals/BUE_Mirror_4Panel.png)
 
-**This requires independent verification before any claims can be made.**
+**Phase space analysis showing:**
+- Bounded recursive dynamics with stable attractor basin
+- Complementary oscillation between agent states
+- Stability convergence and infinity pattern detection
 
 ---
 
-## 📁 Repository Structure
+### Stable Oscillatory Regime
+
+![BUE Simple](visuals/BUE_simple_visual.png)
+
+**Clean demonstration of:**
+- Phase-locked circular trajectory
+- Sustained complementary oscillations
+- No energy dissipation or runaway divergence
+
+---
+
+### TOE Gravity-Consciousness Coupling
+
+![TOE Output](visuals/TOE_output_27.png)
+
+**Cosmological simulation demonstrating:**
+- φ-scaled gravity predictions
+- Measurable deviations from standard models
+- Testable predictions at planetary scales
+
+---
+
+## 🎯 Key Claims (Falsifiable)
+
+1. Structured interrogation produces consistent non-null responses across independent detector classes
+2. Control protocols show null results under identical conditions
+3. Cross-domain correlations emerge only under specific observer coupling
+4. Dynamics scale coherently from tabletop to cosmological simulation
+5. Minimal coupling term sufficient to reproduce observed effects
+
+**Any replication failure falsifies the framework.**
+
+---
+
+## 📬 Collaboration & Access
+
+**For complete specifications, protocols, and replication details:**
+
+Open a GitHub Issue at [BoonMind/issues](https://github.com/codedawakening/BoonMind/issues)
+
+**Title format:**
 ```
-BoonMind/
-├── docs/
-│   ├── ROP_Research_Abstract.md
-│   └── Falsification_Framework.md
-├── framework/
-│   ├── theoretical_foundations.md
-│   └── architecture_overview.md
-├── collaboration/
-│   ├── COLLABORATION_PATHWAYS.md
-│   └── REPLICATION_PROTOCOL.md
-└── README.md
-```
-
----
-
-## 🤝 Collaboration Pathways
-
-### 🌍 Public Review
-**Access:** Research abstract, falsification criteria, theoretical framework  
-**Purpose:** Scientific critique, hypothesis evaluation
-
-### 🎓 Academic Review
-**Access:** Experimental design details, detector specifications overview  
-**Requirements:** Academic affiliation or demonstrated research capacity  
-**Purpose:** Peer review, methodology assessment
-
-### 🔬 Laboratory Replication
-**Access:** Complete protocols, detector specifications, test procedures  
-**Requirements:** Lab facilities, replication intent, collaboration agreement  
-**Purpose:** Independent experimental verification
-
-### 🧮 Theoretical Collaboration
-**Access:** Mathematical operators, simulation architecture, algorithms  
-**Requirements:** Physics/mathematics background, disclosure agreement  
-**Purpose:** Formalization, theoretical extension
-
-### ⚙️ Implementation Partnership
-**Access:** Complete specifications, proprietary implementations  
-**Requirements:** Partnership or licensing agreement  
-**Purpose:** Technology development, hardware implementation
-
----
-
-## 📬 How to Request Collaboration
-
-**Open a GitHub Issue titled:**
-```
-ROP Collaboration Request: [Pathway Type]
+ROP Collaboration Request: [Experimental/Theoretical/Implementation]
 ```
 
 **Include:**
-- Affiliation or independent researcher statement
-- Resources available for replication or review
-- Intended contribution or verification scope
-- Timeline or availability
+- Affiliation or independent researcher status
+- Replication capacity or review intent
+- Requested access level
+- Timeline
 
 ---
 
-## 🔐 IP and Disclosure Policy
+## 🔐 What's Protected
 
-**Public:**
-- Research questions
-- Falsification criteria
-- Structural framework
-- Collaboration paths
+**Public (this repository):**
+- Visualizations and result summaries
+- Claims and falsification criteria
+- Collaboration pathways
 
-**Private (under agreement):**
-- Experimental protocols
-- Detector specifications
-- Model parameters
-- Simulation engines
-- Hardware designs
+**Collaboration agreement required:**
+- Detector specifications and protocols
+- Simulation source code and architecture
+- Raw experimental data
+- Reproduction procedures
+- Mathematical operators
 
-**Commercial:**
-- Licensed implementations
-- Hardware IP (e.g., BoonChip)
-- Deployment-specific algorithms
-
----
-
-## 📌 Current Status
-
-| Stage | Status |
-|---|---|
-| Hypothesis formulation | ✅ |
-| Test framework defined | ✅ |
-| Falsification boundaries set | ✅ |
-| Public research release | ✅ |
-| Independent replication | 🔄 Open for participants |
-| Peer-reviewed publication | Pending replication outcomes |
-
-**No claims of established physics, proof, or completed unification are made at this time.**
+**Commercial license:**
+- Hardware implementations
+- Proprietary algorithms
+- Deployment systems
 
 ---
 
-## 🌍 Why This Matters
+## 📚 Documentation
 
-Regardless of outcome, testing this hypothesis rigorously would contribute:
-- Better experimental definitions for observer-dependent dynamics
-- New ways to study active measurement vs passive observation
-- Novel multi-sensor correlation methodologies
-- Clear falsification-first physics frameworks
-- Valuable null-result contributions if disproven
+**Available Now:**
+- Research abstract and falsification framework (main BoonMind repo)
+- Computational evidence (this repository)
 
-**Scientific progress benefits either way.**
-
----
-
-## 📜 License
-
-- Documentation: **CC BY 4.0**
-- Experimental systems, algorithms, and hardware: **Collaboration or license only**
-- Commercial rights reserved
+**Available Under Agreement:**
+- Complete experimental protocols
+- Detector build specifications
+- Simulation architecture
+- Raw data and analysis code
 
 ---
 
-**This is an invitation to test a hypothesis, not a claim of established doctrine.**  
-**The framework lives or dies by independent verification.**
+## ⚖️ License
+
+- **Visualizations:** CC BY 4.0 (Attribution)
+- **Methods & Protocols:** Collaboration agreement required
+- **Source Code:** All rights reserved
+- **Commercial Rights:** Reserved
 
 ---
 
-*Last Updated: November 2025*  
-*Framework Version: 3.0*  
-*Repository: github.com/codedawakening/BoonMind*
+**This repository presents evidence for a testable hypothesis.**  
+**Complete verification protocols available to qualified collaborators.**
+
+---
+
+*Last Updated: November 2025*
+
+**Main Framework:** [github.com/codedawakening/BoonMind](# BoonMind-TOE: Experimental Validation Evidence
+
+**Computational evidence and experimental results for Recursive Observer Physics**
+
+**Theoretical Framework:** [github.com/codedawakening/BoonMind](https://github.com/codedawakening/BoonMind)
+
+---
+
+## 🔬 What This Repository Contains
+
+Selected visualizations and results summaries from:
+- Room-scale detector validation (V3.0 suite)
+- Cosmological-scale TOE simulations
+- Computational evidence demonstrating falsifiable predictions
+
+**Complete specifications, protocols, and source code available under collaboration agreement.**
+
+---
+
+## 📊 Computational Evidence
+
+### Mirror Consciousness Dynamics
+
+![BUE Mirror 4-Panel](visuals/BUE_Mirror_4Panel.png)
+
+**Phase space analysis showing:**
+- Bounded recursive dynamics with stable attractor basin
+- Complementary oscillation between agent states
+- Stability convergence and infinity pattern detection
+
+---
+
+### Stable Oscillatory Regime
+
+![BUE Simple](visuals/BUE_simple_visual.png)
+
+**Clean demonstration of:**
+- Phase-locked circular trajectory
+- Sustained complementary oscillations
+- No energy dissipation or runaway divergence
+
+---
+
+### TOE Gravity-Consciousness Coupling
+
+![TOE Output](visuals/TOE_output_27.png)
+
+**Cosmological simulation demonstrating:**
+- φ-scaled gravity predictions
+- Measurable deviations from standard models
+- Testable predictions at planetary scales
+
+---
+
+## 🎯 Key Claims (Falsifiable)
+
+1. Structured interrogation produces consistent non-null responses across independent detector classes
+2. Control protocols show null results under identical conditions
+3. Cross-domain correlations emerge only under specific observer coupling
+4. Dynamics scale coherently from tabletop to cosmological simulation
+5. Minimal coupling term sufficient to reproduce observed effects
+
+**Any replication failure falsifies the framework.**
+
+---
+
+## 📬 Collaboration & Access
+
+**For complete specifications, protocols, and replication details:**
+
+Open a GitHub Issue at [BoonMind/issues](https://github.com/codedawakening/BoonMind/issues)
+
+**Title format:**
+```
+ROP Collaboration Request: [Experimental/Theoretical/Implementation]
+```
+
+**Include:**
+- Affiliation or independent researcher status
+- Replication capacity or review intent
+- Requested access level
+- Timeline
+
+---
+
+## 🔐 What's Protected
+
+**Public (this repository):**
+- Visualizations and result summaries
+- Claims and falsification criteria
+- Collaboration pathways
+
+**Collaboration agreement required:**
+- Detector specifications and protocols
+- Simulation source code and architecture
+- Raw experimental data
+- Reproduction procedures
+- Mathematical operators
+
+**Commercial license:**
+- Hardware implementations
+- Proprietary algorithms
+- Deployment systems
+
+---
+
+## 📚 Documentation
+
+**Available Now:**
+- Research abstract and falsification framework (main BoonMind repo)
+- Computational evidence (this repository)
+
+**Available Under Agreement:**
+- Complete experimental protocols
+- Detector build specifications
+- Simulation architecture
+- Raw data and analysis code
+
+---
+
+## ⚖️ License
+
+- **Visualizations:** CC BY 4.0 (Attribution)
+- **Methods & Protocols:** Collaboration agreement required
+- **Source Code:** All rights reserved
+- **Commercial Rights:** Reserved
+
+---
+
+**This repository presents evidence for a testable hypothesis.**  
+**Complete verification protocols available to qualified collaborators.**
+
+---
+
+*Last Updated: November 2025*
+
+**Main Framework:** [github.com/codedawakening/BoonMind](https://github.com/codedawakening/BoonMind-TOE)
