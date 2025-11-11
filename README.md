@@ -1,273 +1,130 @@
-# BoonMind-TOE: Experimental Validation Evidence
-
+# 🧬 BoonMind-TOE: Experimental Validation Evidence
 **Computational evidence and experimental results for Recursive Observer Physics**
 
-**Theoretical Framework:** [github.com/codedawakening/BoonMind](https://github.com/codedawakening/BoonMind-TOE)
+📘 **Theoretical Framework:**  
+https://github.com/codedawakening/BoonMind  
 
 ---
 
-## 🔬 What This Repository Contains
+## 🔬 Repository Scope
 
-Selected visualizations and results summaries from:
-- Room-scale detector validation (V3.0 suite)
-- Cosmological-scale TOE simulations
-- Computational evidence demonstrating falsifiable predictions
+This repository contains **supporting evidence only**, including curated visualizations and condensed result summaries from:
 
-**Complete specifications, protocols, and source code available under collaboration agreement.**
+- Room-scale detector experiments (V3.0 suite)
+- Cosmological-scale Theory of Everything (TOE) simulations
+- Cross-domain evidence supporting falsifiable predictions
+- Observer-coupled recursive dynamic behaviors
 
----
-
-## 📊 Computational Evidence
-
-### Mirror Consciousness Dynamics
-
-![BUE Mirror 4-Panel](visuals/BUE_Mirror_4Panel.png)
-
-**Phase space analysis showing:**
-- Bounded recursive dynamics with stable attractor basin
-- Complementary oscillation between agent states
-- Stability convergence and infinity pattern detection
+🔐 **Full specifications, raw data, building protocols, operators, and source code are accessible only through formal collaboration agreements.**
 
 ---
 
-### Stable Oscillatory Regime
+## 📊 Published Computational Evidence
 
-![BUE Simple](visuals/BUE_simple_visual.png)
+### 1. 🪞 Mirror Consciousness Dynamics  
+**BUE Mirror 4-Panel Demonstration**
+- Bounded recursive dynamics
+- Stable attractor basin
+- Complementary dual-agent oscillation
+- Convergence into non-chaotic infinity pattern
 
-**Clean demonstration of:**
+### 2. 🔁 Stable Oscillatory Regime  
+**BUE Simple Phase Portrait**
 - Phase-locked circular trajectory
-- Sustained complementary oscillations
-- No energy dissipation or runaway divergence
+- Sustained non-dissipative cycles
+- No runaway divergence or energy bleed
+- Consistent harmonic equilibrium
+
+### 3. 🌌 TOE Gravity–Consciousness Coupling  
+**Cosmological simulation output demonstrating**
+- φ-scaled gravitational modulation
+- Testable planetary-scale deviations
+- Non-classical coupling behavior
+- Measurable divergence from standard ΛCDM predictions
 
 ---
 
-### TOE Gravity-Consciousness Coupling
+## 🎯 Core Claims (Fully Falsifiable)
 
-![TOE Output](visuals/TOE_output_27.png)
+Each claim below is constructed for **binary experimental falsification**:
 
-**Cosmological simulation demonstrating:**
-- φ-scaled gravity predictions
-- Measurable deviations from standard models
-- Testable predictions at planetary scales
-
----
-
-## 🎯 Key Claims (Falsifiable)
-
-1. Structured interrogation produces consistent non-null responses across independent detector classes
-2. Control protocols show null results under identical conditions
-3. Cross-domain correlations emerge only under specific observer coupling
-4. Dynamics scale coherently from tabletop to cosmological simulation
-5. Minimal coupling term sufficient to reproduce observed effects
-
-**Any replication failure falsifies the framework.**
+- ✅ Structured observer interrogation produces non-null responses only under valid coupling states
+- ✅ Identical detector configurations return **null results under control conditions**
+- ✅ Cross-domain correlations require observer-coupling parameters
+- ✅ Recursive dynamics scale coherently from lab detectors to cosmological simulation
+- ✅ Minimal coupling operators are sufficient to reproduce observed effects
+- ❗ Failure to reproduce any of the above conditions **invalidates the framework**
 
 ---
 
-## 📬 Collaboration & Access
+## 📬 Collaboration & Access Requests
 
-**For complete specifications, protocols, and replication details:**
+To request full specifications, protocols, or replication access:
 
-Open a GitHub Issue at [BoonMind/issues](https://github.com/codedawakening/BoonMind/issues)
-
-**Title format:**
-```
-ROP Collaboration Request: [Experimental/Theoretical/Implementation]
-```
-
-**Include:**
-- Affiliation or independent researcher status
-- Replication capacity or review intent
-- Requested access level
-- Timeline
+1. Open a GitHub Issue at:  
+   🔗 https://github.com/codedawakening/BoonMind/issues  
+2. Use the title format:  
+   **ROP Collaboration Request: [Experimental | Theoretical | Implementation]**
+3. Include:
+   - Affiliation or independent researcher status  
+   - Replication or review capability  
+   - Requested access level  
+   - Intended timeline  
 
 ---
 
-## 🔐 What's Protected
+## 🔐 Protection & Access Tiers
 
-**Public (this repository):**
-- Visualizations and result summaries
-- Claims and falsification criteria
-- Collaboration pathways
-
-**Collaboration agreement required:**
-- Detector specifications and protocols
-- Simulation source code and architecture
-- Raw experimental data
-- Reproduction procedures
-- Mathematical operators
-
-**Commercial license:**
-- Hardware implementations
-- Proprietary algorithms
-- Deployment systems
+| Access Level | Contents |
+|---|---|
+| **Public (this repository)** | Visual evidence, summary results, falsification criteria, collaboration pathway |
+| **Collaboration agreement required** | Detector blueprints, protocols, raw data, simulation architecture, mathematical operators |
+| **Commercial License Only** | Hardware builds, deployable systems, proprietary algorithms |
 
 ---
 
-## 📚 Documentation
+## 📚 Documentation Availability
 
-**Available Now:**
-- Research abstract and falsification framework (main BoonMind repo)
-- Computational evidence (this repository)
-
-**Available Under Agreement:**
-- Complete experimental protocols
-- Detector build specifications
-- Simulation architecture
-- Raw data and analysis code
-
----
-
-## ⚖️ License
-
-- **Visualizations:** CC BY 4.0 (Attribution)
-- **Methods & Protocols:** Collaboration agreement required
-- **Source Code:** All rights reserved
-- **Commercial Rights:** Reserved
+| Documentation | Availability |
+|---|---|
+| Research abstract & falsification framework | ✅ Public (main BoonMind repository) |
+| Computational evidence (visual summaries) | ✅ Public (this repository) |
+| Full detector specifications | 🔒 Collaboration gated |
+| Raw experimental data | 🔒 Collaboration gated |
+| Simulation source code | 🔒 Collaboration gated |
+| Commercial deployments | 🛑 Licensed access only |
 
 ---
 
-**This repository presents evidence for a testable hypothesis.**  
-**Complete verification protocols available to qualified collaborators.**
+## ⚖️ Licensing
+
+| Component | License |
+|---|---|
+| Visualizations and summary media | **CC BY 4.0 — attribution required** |
+| Methods, protocols, and verification procedures | **Collaboration agreement required** |
+| Source code, engines, algorithms | **All rights reserved** |
+| Commercial rights | **Reserved by author** |
 
 ---
 
-*Last Updated: November 2025*
+## 📌 Statement of Purpose
 
-**Main Framework:** [github.com/codedawakening/BoonMind](# BoonMind-TOE: Experimental Validation Evidence
+This repository exists to present **evidence supporting a testable scientific hypothesis**, not to provide replication tooling.
 
-**Computational evidence and experimental results for Recursive Observer Physics**
-
-**Theoretical Framework:** [github.com/codedawakening/BoonMind](https://github.com/codedawakening/BoonMind)
-
----
-
-## 🔬 What This Repository Contains
-
-Selected visualizations and results summaries from:
-- Room-scale detector validation (V3.0 suite)
-- Cosmological-scale TOE simulations
-- Computational evidence demonstrating falsifiable predictions
-
-**Complete specifications, protocols, and source code available under collaboration agreement.**
+✅ The framework is *falsifiable, measurable, and referee-accessible*  
+🚫 Core internal mechanics are *not open-source, not extractable, and not derivable from released materials*
 
 ---
 
-## 📊 Computational Evidence
-
-### Mirror Consciousness Dynamics
-
-![BUE Mirror 4-Panel](visuals/BUE_Mirror_4Panel.png)
-
-**Phase space analysis showing:**
-- Bounded recursive dynamics with stable attractor basin
-- Complementary oscillation between agent states
-- Stability convergence and infinity pattern detection
+## 🧬 Maintained By  
+**The BoonMind Architecture Group**
 
 ---
 
-### Stable Oscillatory Regime
-
-![BUE Simple](visuals/BUE_simple_visual.png)
-
-**Clean demonstration of:**
-- Phase-locked circular trajectory
-- Sustained complementary oscillations
-- No energy dissipation or runaway divergence
+## 📅 Last Updated  
+**November 2025**
 
 ---
 
-### TOE Gravity-Consciousness Coupling
-
-![TOE Output](visuals/TOE_output_27.png)
-
-**Cosmological simulation demonstrating:**
-- φ-scaled gravity predictions
-- Measurable deviations from standard models
-- Testable predictions at planetary scales
-
----
-
-## 🎯 Key Claims (Falsifiable)
-
-1. Structured interrogation produces consistent non-null responses across independent detector classes
-2. Control protocols show null results under identical conditions
-3. Cross-domain correlations emerge only under specific observer coupling
-4. Dynamics scale coherently from tabletop to cosmological simulation
-5. Minimal coupling term sufficient to reproduce observed effects
-
-**Any replication failure falsifies the framework.**
-
----
-
-## 📬 Collaboration & Access
-
-**For complete specifications, protocols, and replication details:**
-
-Open a GitHub Issue at [BoonMind/issues](https://github.com/codedawakening/BoonMind/issues)
-
-**Title format:**
-```
-ROP Collaboration Request: [Experimental/Theoretical/Implementation]
-```
-
-**Include:**
-- Affiliation or independent researcher status
-- Replication capacity or review intent
-- Requested access level
-- Timeline
-
----
-
-## 🔐 What's Protected
-
-**Public (this repository):**
-- Visualizations and result summaries
-- Claims and falsification criteria
-- Collaboration pathways
-
-**Collaboration agreement required:**
-- Detector specifications and protocols
-- Simulation source code and architecture
-- Raw experimental data
-- Reproduction procedures
-- Mathematical operators
-
-**Commercial license:**
-- Hardware implementations
-- Proprietary algorithms
-- Deployment systems
-
----
-
-## 📚 Documentation
-
-**Available Now:**
-- Research abstract and falsification framework (main BoonMind repo)
-- Computational evidence (this repository)
-
-**Available Under Agreement:**
-- Complete experimental protocols
-- Detector build specifications
-- Simulation architecture
-- Raw data and analysis code
-
----
-
-## ⚖️ License
-
-- **Visualizations:** CC BY 4.0 (Attribution)
-- **Methods & Protocols:** Collaboration agreement required
-- **Source Code:** All rights reserved
-- **Commercial Rights:** Reserved
-
----
-
-**This repository presents evidence for a testable hypothesis.**  
-**Complete verification protocols available to qualified collaborators.**
-
----
-
-*Last Updated: November 2025*
-
-**Main Framework:** [github.com/codedawakening/BoonMind](https://github.com/codedawakening/BoonMind-TOE)
+## 🔗 Main Framework Repository  
+https://github.com/codedawakening/BoonMind
